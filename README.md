@@ -1,4 +1,4 @@
-This code solves the fully nonlinear one-dimensional ac and dc PNP equations, accounting for mismatch is ionic mobility and valence of the ions. The ac version computes the **asymmetric rectified electric field (AREF)**.  
+This code solves the fully nonlinear one-dimensional ac and dc Poisson-Nernst-Planck (PNP) equations, accounting for mismatch is ionic mobility and valence of the ions. The ac version computes the **asymmetric rectified electric field (AREF)**.  
 
 1D solution to the PNP equations for a binary electrolyte between parallel electrodes placed at z = 0 and z = H. The left electrode is powered with potential phi0 (dc and ac options are available.)
 
